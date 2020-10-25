@@ -15,7 +15,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".activities.SplashScreen"
-            android:label="Splash Screen"
+            android:label="Fluid Algorithms TimeTable"
             android:theme="@style/SplashTheme">
 
             <intent-filter>
@@ -53,7 +53,7 @@
             android:parentActivityName=".activities.NotesActivity" />
         <activity
             android:name=".activities.TeachersActivity"
-            android:label="Teachers"
+            android:label="Contacts"
             android:parentActivityName=".activities.MainActivity" />
         <activity
             android:name=".activities.SettingsActivity"
@@ -65,8 +65,11 @@
         </activity>
         <activity
             android:name=".activities.ExamsActivity"
-            android:label="Exams"
+            android:label="Events"
             android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.LinksActivity"
+            android:label="Links"/>
 
         <receiver
             android:name=".utils.DailyReceiver"

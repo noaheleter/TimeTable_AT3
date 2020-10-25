@@ -6,7 +6,7 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Réglages</string>
-    <string name="how_to_use">Comment utiliser</string>
+    <string name="action_links">Liens</string>
 
     <!-- Fragments strings -->
     <string name="monday">Lundi</string>
@@ -29,8 +29,8 @@
     <string name="week">La semaine</string>
     <string name="delete">Effacer</string>
     <string name="edit">Éditer</string>
-    <string name="school_website">Site Internet</string>
-    <string name="school_website_snackbar">Veuillez définir l\'URL de votre site Web dans les paramètres.</string>
+    <string name="school_website">site Web d\'entreprise</string>
+    <string name="school_website_snackbar">Veuillez définir l\'URL du site Web de votre entreprise dans les paramètres.</string>
 
     <string name="add_subject">Ajouter un sujet</string>
     <string name="edit_subject">Modifier le sujet</string>
@@ -94,8 +94,8 @@
 
     <!-- Settings Activity strings -->
     <string name="sevendays_setting">Activer 7 jours de la semaine</string>
-    <string name="school_website_setting">Changer de site Web</string>
-    <string name="school_website_setting_summary">Changer l\'URL de votre site Web</string>
+    <string name="school_website_setting">Changer le site Web de l\'entreprise</string>
+    <string name="school_website_setting_summary">Modifier l\'URL du site Web de votre entreprise</string>
 
     <!-- Notification -->
     <string name="notification_title">Les leçons d\'aujourd\'hui</string>

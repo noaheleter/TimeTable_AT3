@@ -30,8 +30,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Water with a plus."
-        android:textColor="@android:color/holo_red_light"
+        android:text="Water With a Plus"
+        android:textColor="#ffa500"
         android:textSize="20sp"
         android:textStyle="bold" />
 

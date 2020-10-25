@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context="com.ulan.timetable.activities.LinksActivity">
+
+    <ImageView
+        android:id="@+id/linkedInIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:onClick="LinkedIn"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/linkedin" />
+
+    <ImageView
+        android:id="@+id/InstagramIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:onClick="Instagram"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/instagram" />
+
+    <ImageView
+        android:id="@+id/FacebookIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:onClick="Facebook"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/facebook" />
+
+</LinearLayout>
