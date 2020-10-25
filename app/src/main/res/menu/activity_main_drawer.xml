@@ -44,7 +44,7 @@
 
         <item
             android:id="@+id/how_to_use"
-            android:icon="@drawable/"
+            android:icon="@drawable/baseline_settings_black_18"
             android:title="@string/how_to_use"
             />
     </group>
